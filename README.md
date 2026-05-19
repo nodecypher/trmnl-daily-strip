@@ -1,6 +1,6 @@
 # TRMNL Daily Strip
 
-A TRMNL recipe that displays daily comic strips from GoComics.com on your e-ink display.
+A TRMNL recipe that displays daily comic strips from various public repositories on your e-ink display.
 
 ## Supported Comics
 - Agnes
@@ -12,4 +12,4 @@ A TRMNL recipe that displays daily comic strips from GoComics.com on your e-ink 
 If something isn't working, please [open an issue](../../issues) and I'll take a look.
 
 ## How it works
-This recipe fetches the daily comic strip from various public repositories via a Cloudflare Worker and displays it on your TRMNL device.
+This recipe fetches the daily comic strip from public repositories via a Cloudflare Worker and displays it on your TRMNL device.
