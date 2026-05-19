@@ -3,9 +3,9 @@
 A TRMNL recipe that displays daily comic strips from GoComics.com on your e-ink display.
 
 ## Supported Comics
+- Agnes
 - Dick Tracy
-- Calvin and Hobbes
-- Garfield
+- Doonesbury
 - (more coming soon)
 
 ## Issues & Support
