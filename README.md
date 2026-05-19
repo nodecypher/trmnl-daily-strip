@@ -4,6 +4,7 @@ A TRMNL recipe that displays daily comic strips from around the web on your e-in
 
 ## Supported Comics
 - Agnes
+- Broom Hilda
 - Dick Tracy
 - Doonesbury
 - (more coming soon)
