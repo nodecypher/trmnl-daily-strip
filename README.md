@@ -1,6 +1,6 @@
 # TRMNL Daily Strip
 
-A TRMNL recipe that displays daily comic strips from various public repositories on your e-ink display.
+A TRMNL recipe that displays daily comic strips from around the web on your e-ink display.
 
 ## Supported Comics
 - Agnes
