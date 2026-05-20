@@ -3,11 +3,10 @@
 A TRMNL recipe that displays daily comic strips from around the web on your e-ink display.
 
 ## Supported Comics
-- Agnes
 - Blondie
-- Broom Hilda
 - Dick Tracy
 - Doonesbury
+- Non Sequitur
 - (more coming soon)
 
 ## Issues & Support
