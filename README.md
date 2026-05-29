@@ -3,10 +3,10 @@
 A TRMNL recipe that displays daily comic strips from around the web on your e-ink display.
 
 ## Supported Comics
-- Blondie
 - Dick Tracy
+- Dilbert
 - Doonesbury
-- Non Sequitur
+- Peanuts Begins
 - (more coming soon)
 
 ## Issues & Support
